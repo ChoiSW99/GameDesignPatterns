@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b90a934dc76c544d8784253dca4a28f, type: 3}
+  m_Name: WeaponConfig
+  m_EditorClassIdentifier: 
+  rate: 4.1
+  range: 8.8
+  strength: 19.5
+  cooldown: 32.1
+  weaponName: conf
+  weaponPrefab: {fileID: 0}
+  weaponDescription: 
